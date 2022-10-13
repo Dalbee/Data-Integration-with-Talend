@@ -1,9 +1,9 @@
 <h1> This repository contains the games sales ranking project </h1>
 <p1>
   <figure>
-  <img src="https://github.com/Dalbee/Data-Integration-with-Talend/blob/main/games%20sales%20ranking%20job/pictures/games_sales_ranking_job_0.1.png" alt="Game Sales    Ranking Job" title="Game Sales Ranking Job">
+  <img src="https://github.com/Dalbee/Data-Integration-with-Talend/blob/main/Reading%20and%20Mapping%20Data%20with%20Talend/pictures/ReadingAndMappingData_0.1.png" alt="Reading and Mapping Data" title="Reading and Mapping Data Job">
   <figcaption>
-   <b> Figure: Game Sales Ranking Job </b>
+   <b> Figure: Reading and Mapping Data Job </b>
   </figcaption> 
  </figure>
 </p1>
