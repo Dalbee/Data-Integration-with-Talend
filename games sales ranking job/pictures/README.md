@@ -1,1 +1,1 @@
-This folder cantians the images for the games sales ranking job
+This folder contains the images for the games sales ranking job
